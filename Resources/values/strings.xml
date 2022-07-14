@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">505NEWS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+	<string name="Actualidad">Actualidad</string>
+	<string name="Sucesos">Sucesos</string>
+	<string name="Deportes">Deportes</string>
+	<string name="Farandula">Farandula</string>
+</resources>
