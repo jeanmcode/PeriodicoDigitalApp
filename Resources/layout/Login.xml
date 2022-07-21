@@ -70,6 +70,7 @@
 />
 
         <Button
+        android:id="@+id/btnIngresar"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:text="Iniciar sesión"
